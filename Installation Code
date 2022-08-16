@@ -81,5 +81,19 @@ body a {
     color: #f00;
 }
 .side .usertext-body .md { color: #ffffff }
+
+.side:after {
+    position: absolute;
+    display: block;
+    padding: 15px 0;
+    margin: 20px 0 0 -6px;
+    color: #ffffff;
+    background: #06014a;
+    border: 1px solid #26292E;
+    content: "/r/MidnightBlueCSS by /u/BroderzYt";
+    width: 309px;
+    text-align: center;
+    font-size: x-small;
+}
 /* End of theme
 -------------------------------------------------------------------------- */
