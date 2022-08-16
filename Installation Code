@@ -90,7 +90,7 @@ body a {
     color: #ffffff;
     background: #06014a;
     border: 1px solid #26292E;
-    content: "/r/MidnightBlueCSS by /u/BroderzYt";
+    content: "/r/MidnightBlueCSS by /u/BroderzYt"; /*DO NOT REMOVE/EDIT THE TEXT*/
     width: 250px;
     text-align: center;
     font-size: x-small;
