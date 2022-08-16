@@ -1,0 +1,85 @@
+/* This subreddit uses the Midnight Blue CSS theme
+
+/* Created by /u/BroderzYt
+
+-------------------------------------------------------------------------- */
+.sidebox.submit .morelink {
+    background: #06014a;
+    border: 2px solid black;
+    border-radius: 15px 
+}
+.sidebox.submit .nub {
+    display: none;
+}
+.sidebox.submit .morelink a {
+    color: #ffffff;
+}
+.sidebox.submit .morelink:hover {
+    background: #212121;
+}
+.link {
+    margin-bottom: 5px;
+    background-color: #06014a;
+    padding: 5px;
+    overflow: hidden !important;
+    border-radius: 15px 15px 15px 15px;
+}
+    body{
+background-color: #000000;
+}
+.side {
+    background-color: #000000;
+    }
+body,
+body a {
+    color: #1100ff;
+    }
+
+.tagline {
+    color: orange;
+    }
+
+.tagline a {
+    color: green;
+    }
+
+.flat-list.buttons li a {
+    color: #ffffff;
+    }
+.hover.pagename.redditname a {
+    display: table-cell;
+    vertical-align: bottom;
+    color: #ffffff;}
+.side .redditname a {color:#ffffff;}
+
+#header { background-color: #06014a; }
+
+.titlebox form.toggle,
+.leavemoderator,
+.side .spacer {
+    background: #000000;
+}
+  .sidebox.create .morelink {display: none;}
+
+.commentarea .usertext .md textarea {
+    background-color: rgba(0,0,0,.11);
+    color: rgba(255,255,255,.75);
+    outline-color: red;
+}
+.commentarea .usertext .md textarea:focus { border-color: transparent; }
+
+.comment .md {
+    color: #ffffff !important;
+}
+*::selection {
+    background: #000;
+    color: #f00;
+}
+
+*::-moz-selection {
+    background: #000;
+    color: #f00;
+}
+.side .usertext-body .md { color: #ffffff }
+/* End of theme
+-------------------------------------------------------------------------- */
