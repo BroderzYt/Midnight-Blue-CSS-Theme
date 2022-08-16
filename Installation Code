@@ -85,15 +85,16 @@ body a {
 .side:after {
     position: absolute;
     display: block;
-    padding: 15px 0;
-    margin: 20px 0 0 -6px;
+    padding: 10px 0;
+    margin: 20px 0 0 15px;
     color: #ffffff;
     background: #06014a;
     border: 1px solid #26292E;
     content: "/r/MidnightBlueCSS by /u/BroderzYt";
-    width: 309px;
+    width: 250px;
     text-align: center;
     font-size: x-small;
 }
 /* End of theme
 -------------------------------------------------------------------------- */
+
