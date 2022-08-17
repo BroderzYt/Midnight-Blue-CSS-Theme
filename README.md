@@ -1,6 +1,6 @@
 # Midnight-Blue-CSS-Theme
 
-The **Midnight Blue** CSS theme is a theme created by /u/BroderzYt. It is free to use for any subreddit, you can visit r/MidnightBlueCSS to preview the theme.
+The **Midnight Blue** CSS theme is a theme created by /u/BroderzYt. It is free to use for any subreddit, you can visit [r/MidnightBlueCSS](https://www.reddit.com/r/MidnightBlueCSS/) to preview the theme.
 
 # Installation
 
